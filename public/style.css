@@ -1,0 +1,34 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit; 
+}
+
+h1{
+    font-size: 28px;
+    color: #007bff;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px 15px;
+}
+
+.list-group-item {
+    font-size: 18px;
+}
+
+.text-decoration-line-through {
+    text-decoration: line-through;
+}
